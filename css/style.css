@@ -1,0 +1,35 @@
+span.navbar-brand{
+    margin-left: 20px;
+    font-size: 25px;
+    font-weight: 300;
+    font-family: 'Indie Flower', cursive;
+}
+
+.imgSlider{
+    height: 600px;
+}
+
+.carousel-caption{
+    text-align: left;
+    font-size: 20px;
+    left: 13%;
+    top: 0px;
+}
+
+.caption{
+    text-align: center;
+    font-family: 'Caveat', cursive;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.aboutParagraph{
+    text-align: center;
+    font-family: Cursive;
+    color:grey;
+}
+
+a {
+    text-decoration: none;
+    color:black
+}
